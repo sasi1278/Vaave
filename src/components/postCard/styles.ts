@@ -14,7 +14,8 @@ const styles = StyleSheet.create({
     cardContent: {
       alignItems: 'flex-start',
       width:screenWidth*0.9,
-      height:screenHeight*0.18,
+      height:'auto',
+      padding:10
     },
     image: {
       width: screenWidth*0.15,
